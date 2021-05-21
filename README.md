@@ -1,3 +1,3 @@
-# thinkful-Local_Library_Proj
+# Local Library Project
 
 These are JavaScript exercises me and my group worked on to master arrays and objects.
