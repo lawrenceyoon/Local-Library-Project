@@ -1,6 +1,6 @@
 # Local Library Project
 
-##Context
+## Context
 This was a JavaScript focused project where I worked on looping over arrays and objects using loops. We got a ton of practice using for loops, for in/of, and all array methods (such as map, filter, etc...). When we got stuck, we asked our group to look over each other's work and provide insight on how we can improve our code.
 
 ## Intention
